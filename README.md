@@ -1,1 +1,1 @@
-My first readme
+Thrive to succeed
